@@ -63,5 +63,5 @@ to generate **pixel-level damage heatmaps**.
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
-### 📤 Upload Pre & Post Disaster Images
-![Upload Images](screenshots/upload.png)
+### 📤 Upload Pre & Post Disaster Images and Analyze
+![Upload and analyze Images](screenshots/upload.png)
