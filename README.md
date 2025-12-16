@@ -68,6 +68,6 @@ to generate **pixel-level damage heatmaps**.
 
 ### Drive link to download model
 
-- [**best_model.pth**](https://drive.google.com/file/d/1H1HZU5hNq6LvjyVLoXm-2_yfygvO-h1S/view?usp=sharing](https://drive.google.com/file/d/1ioGgyvXfXtj8BAUV3kGLE-kCRm3ptlvY/view?usp=sharing)](https://drive.google.com/file/d/1ioGgyvXfXtj8BAUV3kGLE-kCRm3ptlvY/view?usp=sharing)) — *PyTorch ViT-UNet Model*
+- [**best_model.pth**](https://drive.google.com/file/d/1ioGgyvXfXtj8BAUV3kGLE-kCRm3ptlvY/view?usp=sharing) — *PyTorch ViT-UNet Model*
 
 > 📁 **Make sure both model files are located in the `backend/` directory before starting the backend.**
