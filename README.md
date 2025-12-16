@@ -1,5 +1,14 @@
 # GeoDamage AI
 
+
+### 🏠 Home Page
+![Home Page](Screenshots/home.png)
+
+### 📤 Upload Pre & Post Disaster Images and Analyze
+![Upload and analyze Images](Screenshots/upload.png)
+
+---
+
 ## Project Overview
 GeoDamage AI is a web-based application for **automated disaster damage assessment** using
 **pre-disaster and post-disaster satellite imagery**.  
@@ -55,13 +64,3 @@ to generate **pixel-level damage heatmaps**.
    ```bash
    [npm run dev](http://localhost:5173)
    ```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](Screenshots/home.png)
-
-### 📤 Upload Pre & Post Disaster Images and Analyze
-![Upload and analyze Images](Screenshots/upload.png)
