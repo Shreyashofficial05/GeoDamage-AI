@@ -64,3 +64,10 @@ to generate **pixel-level damage heatmaps**.
    ```bash
    [npm run dev](http://localhost:5173)
    ```
+---
+
+### Drive link to download model
+
+- [**image_model_1.pth**]([https://drive.google.com/file/d/1H1HZU5hNq6LvjyVLoXm-2_yfygvO-h1S/view?usp=sharing](https://drive.google.com/file/d/1ioGgyvXfXtj8BAUV3kGLE-kCRm3ptlvY/view?usp=sharing)) — *PyTorch ViT-UNet Model*
+
+> 📁 **Make sure both model files are located in the `backend/` directory before starting the backend.**
